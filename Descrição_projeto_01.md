@@ -23,7 +23,7 @@ Acaso haja fila e haja créditos, o usuário entra na fila e espera a sua vez de
 
 ## OPERAÇOES
 
-i. Adicionar usuários ao final da fila. 
-ii. Adicionar créditos ao perfil dos usuários. 
-iii. Atendimento ao usuário, verificando se ele consta do registro, se ele possuí créditos e permitindo o acesso dele ao restaurante ou não. 
-iv. exclusão do usuário do BD do restaurante, acaso ele tenha se formado. 
+- Adicionar usuários ao final da fila. 
+- Adicionar créditos ao perfil dos usuários. 
+- Atendimento ao usuário, verificando se ele consta do registro, se ele possuí créditos e permitindo o acesso dele ao restaurante ou não. 
+- exclusão do usuário do BD do restaurante, acaso ele tenha se formado. 
