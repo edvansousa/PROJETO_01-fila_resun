@@ -1,4 +1,7 @@
 ```c
+/*Partes do código abaixo podem ser encontradas em sítios web e 
+livros texto da disciplina estrutura de dados.*/
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
